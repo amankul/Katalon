@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Companies</name>
+   <tag>Schema</tag>
+   <comment></comment>
+   <testCaseGuid>e32787e3-8ee4-452a-8504-2419fcd1ce53</testCaseGuid>
+   <variable>
+      <defaultValue>'rlewis'</defaultValue>
+      <description></description>
+      <id>d6f8bce0-46a1-4f2b-a982-58917b9bacc1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ce2243c-d16c-4729-996f-9313c14c7aea</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43c536f0-21c0-4218-a51a-1a049b6e3e72</id>
+      <masked>true</masked>
+      <name>firmid</name>
+   </variable>
+</TestCaseEntity>

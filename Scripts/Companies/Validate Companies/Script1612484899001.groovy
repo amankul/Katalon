@@ -16,18 +16,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.logging.KeywordLogger as KeywordLogger
 import com.google.gson.*
-import groovy.json.JsonSlurper
+import groovy.json.JsonSlurper as JsonSlurper
 
-response = WS.sendRequest(findTestObject('Compass'))
+response = WS.sendRequestAndVerify(findTestObject('Compass', [('url') : GlobalVariable.url, ('api_key') : GlobalVariable.api_key
+            , ('firmid') : firmid, ('password') : '', ('variable_3') : '', ('variable_4') : '']))
 
 WS.verifyResponseStatusCode(response, 200)
 
 WS.verifyElementPropertyValue(response, '[0].Name', 'COMPANY-CONTACT-ADDR-CHK')
 
-/***
-JsonSlurper slurper = new JsonSlurper()
-Map parsedJson = slurper.parseText(response.responseText)
-def idValue = parsedJson.get(0).get("Address1")
-System.out.println(idValue + " Printing Country")
-***/
+WebUI.callTestCase(findTestCase('Companies/Validate Companies Addresses'), [('employee') : 'John', ('department') : 'Finance'], 
+    FailureHandling.STOP_ON_FAILURE)
 

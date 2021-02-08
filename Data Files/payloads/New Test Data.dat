@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>New Test Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>8b3509e5-5e85-4b4b-8e1c-ccf746187e66</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Companies %5B%7B%0D%0A++%22Name%22%3A+%22COMPANY-KATALON%22%2C%0D%0A++%22Acronym%22%3A+%22CCAC%22%2C%0D%0A++%22Website%22%3A+%22stmary.com%22%2C%0D%0A++%22ExternalId%22%3A+null%2C%0D%0A++%22FPISImportId%22%3A+null%2C%0D%0A++%22ParentCompanyName%22%3A+null%2C%0D%0A++%22TickerSymbol%22%3A+%22%22%2C%0D%0A++%22SalesTarget%22%3A+200000.0000%2C%0D%0A++%22AnnualRevenue%22%3A+1200.0%2C%0D%0A++%22NumberOfEmployees%22%3A+0%2C%0D%0A++%22IsHeadquarters%22%3A+true%2C%0D%0A++%22ContactFirmsShortText1%22%3A+%22RIP%22%2C%0D%0A++%22ContactFirmsShortText2%22%3A+%22%22%2C%0D%0A++%22ContactFirmsShortText3%22%3A+%22%22%2C%0D%0A++%22ContactFirmsShortText4%22%3A+%22%22%2C%0D%0A++%22ContactFirmsShortText5%22%3A+%22%22%2C%0D%0A++%22ContactFirmsLongText1%22%3A+%22RestInPeace%22%2C%0D%0A++%22ContactFirmsLongText2%22%3A+%22%22%2C%0D%0A++%22ContactFirmsLongText3%22%3A+%22%22%2C%0D%0A++%22ContactFirmsLongText4%22%3A+%22%22%2C%0D%0A++%22ContactFirmsLongText5%22%3A+%22%22%2C%0D%0A++%22ContactFirmsNumber1%22%3A+0%2C%0D%0A++%22ContactFirmsNumber2%22%3A+0%2C%0D%0A++%22ContactFirmsNumber3%22%3A+0%2C%0D%0A++%22ContactFirmsNumber4%22%3A+0%2C%0D%0A++%22ContactFirmsNumber5%22%3A+0%2C%0D%0A++%22ContactFirmsDate1%22%3A+null%2C%0D%0A++%22ContactFirmsDate2%22%3A+null%2C%0D%0A++%22ContactFirmsDate3%22%3A+null%2C%0D%0A++%22ContactFirmsDate4%22%3A+null%2C%0D%0A++%22ContactFirmsDate5%22%3A+null%2C%0D%0A++%22ContactFirmsValueListID1%22%3A+0%2C%0D%0A++%22ContactFirmsValueListID2%22%3A+0%2C%0D%0A++%22ContactFirmsValueListID3%22%3A+0%2C%0D%0A++%22ContactFirmsValueListID4%22%3A+0%2C%0D%0A++%22ContactFirmsValueListID5%22%3A+0%2C%0D%0A++%22ContactFirmsMoney1%22%3A+0.0000%2C%0D%0A++%22ContactFirmsMoney2%22%3A+222.0000%2C%0D%0A++%22ContactFirmsMoney3%22%3A+0.0000%2C%0D%0A++%22ContactFirmsMoney4%22%3A+0.0000%2C%0D%0A++%22ContactFirmsMoney5%22%3A+0.0000%2C%0D%0A++%22ContactFirmsPercent1%22%3A+0.0%2C%0D%0A++%22ContactFirmsPercent2%22%3A+0.0%2C%0D%0A++%22ContactFirmsPercent3%22%3A+75.0%2C%0D%0A++%22DUNSNumber%22%3A+null%2C%0D%0A++%22OtherCompanyName%22%3A+%22ALTERNATE%22%2C%0D%0A++%22Division%22%3A+%22discussion%22%2C%0D%0A++%22IsDeleted%22%3A+false%2C%0D%0A++%22Notes%22%3A+%22%22%2C%0D%0A++%22ParentCompanyId%22%3A+null%2C%0D%0A++%22Services%22%3A+%22%22%2C%0D%0A++%22Sector%22%3A+%22%22%2C%0D%0A++%22ROW_VERSION%22%3A+%22AAAAASurgB8%3D%22%2C%0D%0A++%22version_userName%22%3A+null%2C%0D%0A++%22version_device%22%3A+null%2C%0D%0A++%22AddrLat%22%3A+30.9%2C%0D%0A++%22AddrLong%22%3A+-77.1%0D%0A%7D%5D</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Endpoint</name>
+      <size>1</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Payload</name>
+      <size>1</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

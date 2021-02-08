@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>POC</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1efe9d79-aa1d-4bf1-b9f5-440f0a0363d6</testSuiteGuid>
+   <testCaseLink>
+      <guid>2c9df06c-60a4-4cfd-a875-f609756e2ddb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Companies/Validate Companies</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>98665bb1-180f-486d-b9de-80d8905d8367</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Creds</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>98665bb1-180f-486d-b9de-80d8905d8367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>d6f8bce0-46a1-4f2b-a982-58917b9bacc1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>98665bb1-180f-486d-b9de-80d8905d8367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>7ce2243c-d16c-4729-996f-9313c14c7aea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>98665bb1-180f-486d-b9de-80d8905d8367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firmid</value>
+         <variableId>43c536f0-21c0-4218-a51a-1a049b6e3e72</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Using keywords</description>
+   <name>Companies - POST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24690bc7-9b23-4605-a414-e00aadc7154a</testCaseGuid>
+</TestCaseEntity>

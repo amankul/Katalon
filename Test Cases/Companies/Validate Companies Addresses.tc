@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Companies Addresses</name>
+   <tag>Schema</tag>
+   <comment></comment>
+   <testCaseGuid>b87923f5-96a4-4e2e-acf3-3109cba563ff</testCaseGuid>
+   <variable>
+      <defaultValue>'John'</defaultValue>
+      <description></description>
+      <id>4a1e5221-de63-4d3b-b874-d876e07dffe0</id>
+      <masked>false</masked>
+      <name>employee</name>
+   </variable>
+   <variable>
+      <defaultValue>'Finance'</defaultValue>
+      <description></description>
+      <id>59c9db2b-f126-46ba-86a0-31e443719f02</id>
+      <masked>false</masked>
+      <name>department</name>
+   </variable>
+</TestCaseEntity>
